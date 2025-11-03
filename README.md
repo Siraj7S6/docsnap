@@ -44,5 +44,5 @@ If modules are missing, reinstall with:
 python -m pip install requests
 ```
 
-Developed by **Mir Talpur** — 2025.
+Developed by **Demonking12i** — 2025.
 DocSnap: your instant documentation-to-book creator.
